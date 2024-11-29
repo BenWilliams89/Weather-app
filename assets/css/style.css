@@ -10,10 +10,10 @@ body {
 background-color: blue;
 }
 
-.card {
+.cardbox {
     width: 90%;
     max-width: 470px;
-    /*background-color: linear-gradient(135deg, #00feba, #5b548a);*/
+    background-color: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
